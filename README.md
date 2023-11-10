@@ -3,7 +3,7 @@
 ## I'm dedicated to analyzing and extracting data into valuable insights.
 - 🌱 I’m constantly learning and developing skills in Excel, PowerBi, SQL and Python for data analysis.
 - 👀 I’m actively seeking hands-on opportunities to contribute my analytical skills to real-world data projects.
-## 📬 Get in touch so we can connect and explore the world of data together!
+## 🌐 Get in touch so we can connect and explore the world of data together!
 <div id="badges">
   <a href="https://www.linkedin.com/in/elizabeth-offiong/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

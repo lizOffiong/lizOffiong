@@ -10,7 +10,7 @@
   </a>
 
 ## 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/MySQL-8.0-007396?style-for-the-badge&logo=mysql&style&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-5B7F95?logo=power-bi&style=flat) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-8.0-007396?style-for-the-badge&logo=mysql&style&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-5B7F95?logo=power-bi&style=flat) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 <!---
 lizOffiong/lizOffiong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
